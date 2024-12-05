@@ -1,0 +1,20 @@
+{
+    "name": "ngoma/datalayer-coffeecode",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ngoma Fortuna",
+            "email": "ngomafortuna@gmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/datalayer": "2.0.*"
+    }
+}
